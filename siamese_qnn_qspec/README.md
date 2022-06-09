@@ -6,3 +6,4 @@ loss: siamese loss
 
 mydata: an example of dataloader
 
+core_qnn: qnn ops
